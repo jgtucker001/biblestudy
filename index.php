@@ -55,7 +55,7 @@
                 <li>Place: Parish Center</li>
                 <li><span style="color:red">Registration Deadline: October 2, 2023</span></li>
             </ul>  
-            <b>Click picture to order workbook ----------------></b>
+            <b>Click picture to order workbook <img src="images/arrow-right-solid.svg" style='width:95px;height:30px;'></b>
                     </td>
                     <td>
                         <a href="https://tinyurl.com/2mcatzhu" target="_blank">
