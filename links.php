@@ -4,8 +4,19 @@
 <body style="background-image:url('images/background.jpg')">
     <?php include("components/header.php") ?>
     <div id="home container">
-            <div class="heading3"><h2>RECOMMENDED BOOKS</h2></div> <br>
+            <div class="heading3"><h2>RECOMMENDED RESOURCES</h2></div> <br>
       <div class="container">
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-6">
+        <div class="hdg"><h2>BIBLE TIMELINE</h2></div>
+            <div class="card" style="width:auto;">
+                <iframe width="660" height="415" src="https://www.youtube.com/embed/zxwWyUcwtd4?si=ZaNp8bI3NJqKNPdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="col-2"></div>
+    </div>
+<br />
             <div class="row">
                 <div class="col-6">
                  <div class="hdg"><h2>EUCHARISTIC REVIVAL</h2></div>
@@ -29,5 +40,6 @@
             </div>
             </div>
             </div>
+<br><br><br><br>
     <?php include("components/footer.php"); ?>
 </html>
