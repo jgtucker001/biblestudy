@@ -2,9 +2,12 @@
 h1, h2 {text-align: center;}
 body {font-family: "Times New Roman", Times, serif;}
 img { width:100%; }
+.pad { padding-left:10px; }
 /*-------- FONT FAMILIES   -------------*/
 .lobster {font-family: "Lobster", serif;}
+.yeseva {font-family: "Yeseva One", serif}
 /*--------------------------------------*/
+li { font-family: "Times New Roman", Times, serif; }
 .mainhead {
     padding: 12px;
     height: 90px;

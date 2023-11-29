@@ -1,4 +1,4 @@
 <div class='container' style='color:blue`'>
-    <h4 style="font-size:large;font-weight:bold">New Resource:</h4>  
-    <p>A Visual Overview of Salvation History, courtesy: Kevin Harris.</p>
+    <h4 style="font-size:large;font-weight:bold">New Resources:</h4>  
+    <p>A list of <a href="links.php" class="alert-link">Bible Study materials</a>.</p>
 </div>

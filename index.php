@@ -71,21 +71,24 @@
     </div>
     <!-- <div class="col">
         <div class="card crd1 shadw">
-            <img src="images/mass.png" class="card-img-top" alt="">
+            <img src="images/Ephesians_med.jpg" class="card-img-top" alt="">
             <div class="card-body">
-                <h5 style="font-weight:bold">A Biblical Walk Through the Mass</h5>
+                <h5 style="font-weight:bold">Ephesians: Discover Your Inheritance</h5>
                 <hr>
                 We would like for you to join us for this very informative Lesson.
             <ul>
-                <li>Dates:  Mondays: March 7-April 4</li>
+                <li>Dates:  Mondays: February 19-April 22</li>
                 <li>Time: 6:00pm</li>
                 <li>Place: Church Hall</li>
-                <li><a href="https://ascensionpress.com/collections/a-biblical-walk-through-the-mass/products/a-biblical-walk-through-the-mass-study-set-10th-anniversary-edition" target="_blank">Click here to order materials from Ascension Press</a></li>
+                <li><span style="color:red;">Registration Deadline: February 5, 2024</span></li>
             </ul>
+            <b>Click picture to order workbook <img src="images/arrow-right-solid.svg" style='width:95px;height:30px;'></b>
+            ><a href="https://tinyurl.com/yrkj44ov" target="_blank"><img src="images/Ephesians_sm.jpg" class="brdr picstyle"></a>
+            
             <button type="button" class="buttn" data-bs-toggle="modal" data-bs-target="#description">More Info ...</button>
         </div>
         </div>
-    </div> 663300 -->
+    </div> -->
     <div class="col-sm-4">
     <div class="card crd1 shadw">
         <div class="card-header crd-hdr" style="text-align:center">
