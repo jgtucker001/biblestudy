@@ -41,25 +41,25 @@
     </div>
     <div class="col-sm-4">
         <div class="card crd1 shadw">
-            <img src="images/bibletimeline.jpg" class="card-img-top" alt="">
+            <img src="images/Ephesians_med.jpg" class="card-img-top" alt="">
             <div class="card-body ">
-                <h5 style="font-weight:bold">Unlocking the Mystery of the Bible</h5>
+                <h5 style="font-weight:bold">Ephesians: Discovering Your Inheritance</h5>
                 <hr>
             <table>
                 <tr>
                     <td>
                     We would like for you to join us for this very informative Lesson.
                         <ul>
-                <li>Dates:  Mondays: October 9 - November 27</li>
+                <li>Dates:  Mondays: February 19 - April 22</li>
                 <li>Time: 7:00pm</li>
                 <li>Place: Parish Center</li>
-                <li><span style="color:red">Registration Deadline: October 2, 2023</span></li>
+                <li><span style="color:red">Registration Deadline: February 5, 2024</span></li>
             </ul>  
             <b>Click picture to order workbook <img src="images/arrow-right-solid.svg" style='width:95px;height:30px;'></b>
                     </td>
                     <td>
-                        <a href="https://tinyurl.com/2mcatzhu" target="_blank">
-                    <img src="images/bibletimeline.jpg" class="brdr picstyle">
+                        <a href="http://tinyurl.com/yqe5ueea" target="_blank">
+                    <img src="images/Ephesians_workbook.jpg" class="brdr picstyle">
                 </a>
                     </td>
                 </tr>
@@ -100,7 +100,7 @@
         </div>
     </div>
     </div>
-</div>
+</div><br /><br />
 </div>
     <?php include("components/footer.php"); ?>
 

@@ -7,7 +7,7 @@
             <div class="heading1"><h2>SCHEDULE</h2></div>
     <div class="row">
         <div class="col-9">
-        <iframe src="uploads/schedule.pdf" style="margin-left:10%" width="90%" height="400%" frameborder="0"></iframe>
+        <iframe src="uploads/schedule.pdf" style="margin-left:15%" width="99%" height="500%" frameborder="0"></iframe>
         </div>
         <div class="col-3">
        
