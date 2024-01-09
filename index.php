@@ -58,7 +58,7 @@
             <b>Click picture to order workbook <img src="images/arrow-right-solid.svg" style='width:95px;height:30px;'></b>
                     </td>
                     <td>
-                        <a href="http://tinyurl.com/yqe5ueea" target="_blank">
+                        <a href="http://tinyurl.com/ynuowgh3" target="_blank">
                     <img src="images/Ephesians_workbook.jpg" class="brdr picstyle">
                 </a>
                     </td>
